@@ -2,4 +2,4 @@
 
 provide unofficial cactus firmware update list.
 
-[docs](https://cactus-unofficial.chundot.org/)
+[docs](https://cactus.rn.chundot.org/)
